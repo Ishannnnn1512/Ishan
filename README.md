@@ -1,1 +1,2 @@
-# Ishan
+#Ishan
+Simon says game
